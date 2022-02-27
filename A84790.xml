@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of His Excellency Thomas Lord Fairfax, to the Right Honorable, the Lord Major of the City of London, for the better preserving a right understanding between the City and Army. With an order of His Excellency to Col: Dean, to march into the City of London, and seize the publike treasuries of Goldsmiths, Weavers, and Haberdashers-Hall, that thereby they may be supplied with moneys to pay quarters, and free the countreys from that grievous burthen of free-quarter. By the appointment of His Excellency the Lord Fairfax Lord General, and his General Councel of Officers. Dec. 8. 1648. Signed, John Rushvvorth Secr'</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84790</idno>
+            <idno type="STC">Wing F184</idno>
+            <idno type="STC">Thomason E475_32</idno>
+            <idno type="STC">ESTC R204447</idno>
+            <idno type="EEBO-CITATION">99863937</idno>
+            <idno type="PROQUEST">99863937</idno>
+            <idno type="VID">116155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84790)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116155)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of His Excellency Thomas Lord Fairfax, to the Right Honorable, the Lord Major of the City of London, for the better preserving a right understanding between the City and Army. With an order of His Excellency to Col: Dean, to march into the City of London, and seize the publike treasuries of Goldsmiths, Weavers, and Haberdashers-Hall, that thereby they may be supplied with moneys to pay quarters, and free the countreys from that grievous burthen of free-quarter. By the appointment of His Excellency the Lord Fairfax Lord General, and his General Councel of Officers. Dec. 8. 1648. Signed, John Rushvvorth Secr'</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>City of London (England). Lord Mayor (1648-1649 : Reynardson)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for John Partridge and George Whittington,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 9. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116155:1" rendition="simple:additions"/>
+            <p>A LETTER Of His Excellency <hi>THOMAS</hi> Lord <hi>FAIRFAX,</hi> To the Right Honorable, The Lord Major of the City of LONDON, For the better preſerving a right Underſtanding between the CITY and ARMY.</p>
+            <p>WITH An Order of His Excellency to Col: <hi>Dean,</hi> to march into the City of <hi>London,</hi> and ſeize the publike Treaſuries of <hi>Goldſmiths, Weavers,</hi> and <hi>Haberdaſhers-Hall,</hi> that thereby they may be ſupplied with Moneys to pay Quarters, and free the Countreys from that grievous Burthen of Free-quarter.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>BY the Appointment of His Excellency the Lord</hi> Fairfax <hi>Lord General, and His General Councel of Officers.</hi>
+                  </p>
+                  <closer>
+                     <date>Dec. 8. 1648.</date>
+                     <signed>Signed, JOHN RUSHVVORTH Secr'</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by JOHN FIELD for <hi>John Partridge</hi> and <hi>George Whittington.</hi> Decemb. 9. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:116155:2"/>
+            <head>For the Right Honorable, The Lord Major of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have given Order to Col: <hi>Dean</hi> and ſome others, to ſeize the Treaſuries in Gold<g ref="char:EOLhyphen"/>ſmiths-Hall and VVeavers-Hall, that by the ſaid Moneys I may be in<g ref="char:EOLhyphen"/>abled to pay quarters whileſt we lie hereabouts; having alſo Ordered Re<g ref="char:EOLhyphen"/>ceipts and Aſſurance to be given to the Trerſurers of the ſaid moneys, that they ſhould be fully reimburſt for the ſaid ſums, out of the Aſſeſſments of the City due to the Army, and out of other Aſſeſſments thereunto belong<g ref="char:EOLhyphen"/>ing; and indeed, although I am un<g ref="char:EOLhyphen"/>willing to take theſe ſtrict courſes, yet having ſent ſo often to you for the ſaid Arrears, and deſired ſums of money to be advanced by you, far ſhort of the
+<pb n="4" facs="tcp:116155:3"/>ſums due from you, yet I have been delayed and denyed, to the hazard of the Army, and the prejudice of others in the Suburbs upon whom they are quartered; wherefore I thought fit to ſend to ſeize the ſaid Treaſuries, and to ſend ſome Forces into the City to quarter there, until I may be ſatisfied the Arrears due unto the Army: and if this ſeem ſtrange unto you, 'tis no leſs then that our Forces have been Ordered to do by the Parliament, in the ſeveral Counties of the Kingdom where aſſeſſments have not been paid, and there to continue until they have been paid: And here give me leave to tell you, the Counties of the King<g ref="char:EOLhyphen"/>dom have born Free-quarter, and that in a great meaſure, for want of your paying your Arrears equally with them; wherefore theſe ways, if they
+<pb n="5" facs="tcp:116155:3"/>diſlike you, yet they are meerly long of your ſelves, and are of as great regret to me and to the Army, as to your ſelves, we wiſhing not onely the good and proſperity of your City, but that things may be ſo carried towards you, as may give you no cauſe of jealouſie: I thought fit to let you know, That if you ſhall take a ſpeedy courſe to ſup<g ref="char:EOLhyphen"/>ply us with 40000 <abbr>l.</abbr> forthwith, ac<g ref="char:EOLhyphen"/>cording to my former Deſire, and pro<g ref="char:EOLhyphen"/>vide ſpeedily what alſo is in Arrear, I ſhall not onely cauſe the moneys in the Treaſuries to be not made uſe of, but leave them to be diſpoſed of as of right they might, and alſo cauſe my Forces to be withdrawn from being in any ſort troubleſom or chargeable to the City; And let the world judge whether this be not juſt and equal dealing with you. I reſt, My Lord,</p>
+            <closer>
+               <signed>Your affectionate Servant, T. FAIRFAX.</signed>
+               <dateline>
+                  <hi>Weſtminster,</hi> 
+                  <date>8 <hi>Dec.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="6" facs="tcp:116155:4"/>
+            <head>His Excellencies Order for the ſeizing the Publike Treaſuries of Goldſmiths, Weavers, and Haberdaſhers-Hall.</head>
+            <p>WHereas the Arrears of the City to the Army being near an Hundred thouſand pounds, and upon the Security of them, there being but Forty thouſand demanded by us, to be advanced by the Lord Major, Aldermen and Common-Councel, for the preſent ſupply of the Army, yet the ſame hath been now for a week delayed, and at laſt refuſed: And whereas to avoid the Grievance of Free-quarter, and inconveniency of quartering Soldiers at private mens houſes, the Forces in theſe Suburbs ha<g ref="char:EOLhyphen"/>ving
+<pb n="7" facs="tcp:116155:4"/>for the week paſt bin kept in void houſes, Inns, and the like; without trouble to private Families, or Free-quartering to any; and that the ex<g ref="char:EOLhyphen"/>treme neceſsity of the Forces before <hi>Ponteſract</hi> may be ſupplied, you or any one or more of you are hereby required, with the aſsiſtance of ſuch Forces as ſhall be needful, to march into the City of <hi>London,</hi> and there to ſeize upon all ſuch ſums of Money as you ſhall finde in the publique Trea<g ref="char:EOLhyphen"/>ſury at Goldſmiths Hall, Haber<g ref="char:EOLhyphen"/>daſhers-Hall, and VVeavers-Hall, or in any of them, giving to the Keepers of the ſaid Treaſuries reſpectively, Receipts under your or one of your Hands for the Sums, or number and proportion of Bags ſo ſeized; All which Sums you or any one of you
+<pb n="8" facs="tcp:116155:5"/>are to cauſe forthwith to be conveyed into Blackfryers, there to be diſpoſed of for the end aforeſaid, as ſhall be further directed by his Excellency the Lord General; and you are to ac<g ref="char:EOLhyphen"/>quaint the Treaſurers or keepers of the ſaid Treaſuries, That they repair<g ref="char:EOLhyphen"/>ing to morrow or on Munday next to the Head-quarters, ſhall have aſſu<g ref="char:EOLhyphen"/>rance of their payment of the reſpe<g ref="char:EOLhyphen"/>ctive ſums ſo ſeized, out of the Arrears of the City, or the Aſſeſſments of the Army.</p>
+            <closer>
+               <signed>
+                  <hi>By the Appointment of His Excel<g ref="char:EOLhyphen"/>lency and the General Councel.</hi> JOHN RUSHWORTH Secr'</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
